@@ -1,3 +1,7 @@
 # Demo version 1
 
-for learning github
+for learning github : 
+
+# Additions
+
+properly
